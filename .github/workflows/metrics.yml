@@ -12,9 +12,11 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          # Options
+          
+          
+                    # Options
           user: Tripticon84
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_octicon: yes
           config_timezone: Europe/Paris
@@ -34,6 +36,8 @@ jobs:
           plugin_code_lines: 12
           plugin_code_load: 400
           plugin_code_visibility: public
+          plugin_introduction: yes
+          plugin_introduction_title: yes
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -52,7 +56,7 @@ jobs:
           plugin_music_time_range: medium
           plugin_music_top_type: tracks
           plugin_music_user: tripticon84
-          plugin_notable: no
+          plugin_notable: yes
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_pagespeed: yes
