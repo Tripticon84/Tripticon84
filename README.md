@@ -1,4 +1,4 @@
-![Banner](https://github.com/oSumAtrIX/oSumAtrIX/blob/main/Banner.png?raw=true)
+![Banner](https://github.com/Tripticon84/Tripticon84/blob/main/logo.jpg?raw=true)
 
 <div align="center">
 
