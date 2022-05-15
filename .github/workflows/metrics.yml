@@ -52,7 +52,7 @@ jobs:
           plugin_music_time_range: medium
           plugin_music_top_type: tracks
           plugin_music_user: tripticon84
-          plugin_notable: yes
+          plugin_notable: no
           plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_pagespeed: yes
