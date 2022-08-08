@@ -14,6 +14,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tripticon84&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
+---
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
