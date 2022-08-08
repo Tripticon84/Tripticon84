@@ -21,8 +21,6 @@
 
 
 
-<!--END_SECTION:activity-->
-
 ---
 
 ### ✍️ Random Dev Quote
