@@ -17,11 +17,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#270](https://github.com/Wieku/danser-go/issues/270) in [Wieku/danser-go](https://github.com/Wieku/danser-go)
-2. ❗️ Opened issue [#3](https://github.com/rounk-ctrl/Winver/issues/3) in [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver)
-3. 🗣 Commented on [#71](https://github.com/tmxkn1/Microsoft-Reward-Chrome-Ext/issues/71) in [tmxkn1/Microsoft-Reward-Chrome-Ext](https://github.com/tmxkn1/Microsoft-Reward-Chrome-Ext)
-4. ❗️ Closed issue [#264](https://github.com/Wieku/danser-go/issues/264) in [Wieku/danser-go](https://github.com/Wieku/danser-go)
-5. 🗣 Commented on [#264](https://github.com/Wieku/danser-go/issues/264) in [Wieku/danser-go](https://github.com/Wieku/danser-go)
+1. 💪 Opened PR [#4](https://github.com/rounk-ctrl/Winver/pull/4) in [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver)
+2. ❗️ Closed issue [#3](https://github.com/rounk-ctrl/Winver/issues/3) in [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver)
+3. 🗣 Commented on [#3](https://github.com/rounk-ctrl/Winver/issues/3) in [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver)
+4. 🗣 Commented on [#270](https://github.com/Wieku/danser-go/issues/270) in [Wieku/danser-go](https://github.com/Wieku/danser-go)
+5. ❗️ Opened issue [#3](https://github.com/rounk-ctrl/Winver/issues/3) in [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver)
 <!--END_SECTION:activity-->
 
 
