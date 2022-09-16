@@ -17,11 +17,11 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/rounk-ctrl/Winver/pull/4) in [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver)
-2. ❗️ Closed issue [#3](https://github.com/rounk-ctrl/Winver/issues/3) in [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver)
-3. 🗣 Commented on [#3](https://github.com/rounk-ctrl/Winver/issues/3) in [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver)
-4. 🗣 Commented on [#270](https://github.com/Wieku/danser-go/issues/270) in [Wieku/danser-go](https://github.com/Wieku/danser-go)
-5. ❗️ Opened issue [#3](https://github.com/rounk-ctrl/Winver/issues/3) in [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver)
+1. 🎉 Merged PR [#5](https://github.com/Tripticon84/VPlusHUD/pull/5) in [Tripticon84/VPlusHUD](https://github.com/Tripticon84/VPlusHUD)
+2. 💪 Opened PR [#5](https://github.com/Tripticon84/VPlusHUD/pull/5) in [Tripticon84/VPlusHUD](https://github.com/Tripticon84/VPlusHUD)
+3. 💪 Opened PR [#4](https://github.com/rounk-ctrl/Winver/pull/4) in [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver)
+4. ❗️ Closed issue [#3](https://github.com/rounk-ctrl/Winver/issues/3) in [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver)
+5. 🗣 Commented on [#3](https://github.com/rounk-ctrl/Winver/issues/3) in [rounk-ctrl/Winver](https://github.com/rounk-ctrl/Winver)
 <!--END_SECTION:activity-->
 
 
