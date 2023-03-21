@@ -8,24 +8,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tripticon84&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tripticon84&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tripticon84&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-
-## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com/steam-test1/VPlusHUD/issues/262) in [steam-test1/VPlusHUD](https://github.com/steam-test1/VPlusHUD)
-2. 🗣 Commented on [#262](https://github.com/steam-test1/VPlusHUD/issues/262) in [steam-test1/VPlusHUD](https://github.com/steam-test1/VPlusHUD)
-3. 💪 Opened PR [#262](https://github.com/steam-test1/VPlusHUD/pull/262) in [steam-test1/VPlusHUD](https://github.com/steam-test1/VPlusHUD)
-4. 🎉 Merged PR [#5](https://github.com/Tripticon84/VPlusHUD/pull/5) in [Tripticon84/VPlusHUD](https://github.com/Tripticon84/VPlusHUD)
-5. 💪 Opened PR [#5](https://github.com/Tripticon84/VPlusHUD/pull/5) in [Tripticon84/VPlusHUD](https://github.com/Tripticon84/VPlusHUD)
-<!--END_SECTION:activity-->
-
-
-
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
